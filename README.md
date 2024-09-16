@@ -13,5 +13,5 @@ No projeto foi utilizado FireBase, NodeJs, Express, Angular e entre outros...
 [Github Yuri - Client BiteForms](https://github.com/yuriGY/bite-forms-client/tree/main?tab=readme-ov-file)
 
 - Link direto para o site:
-[Clique aqui!]https://yurigy.github.io/bite-forms-client/
+[Clique aqui!](https://yurigy.github.io/bite-forms-client/)
 
